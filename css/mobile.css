@@ -1,0 +1,94 @@
+@media screen and (max-width: 1200px){
+    .segment2{
+        padding-left: 200px;
+    }
+
+}
+@media screen and (max-width: 1000px){
+    .segment2{
+        padding-left: 150px;
+
+    }
+    
+
+}
+
+
+@media screen and (max-width: 900px){
+/* .image1{
+    height: 100px;
+    width: 100px;
+    padding-left: 10px;
+} */
+.main-page-headline{
+    padding-left:0px ;
+    padding-right: 0px;
+    padding-top: 20px;
+    
+
+
+
+}
+
+} 
+@media screen and (max-width: 770px){
+    .segment2{
+        padding-left: 5px;
+        padding-bottom: 5px;
+        
+    }
+    .key-points{
+        margin-right: 100px;
+    }
+    
+
+}
+
+
+@media screen and (max-width: 600px){
+    .maps{
+        padding-left: 10px;
+    }
+    .main-contact{
+        padding-left: 10px;
+    }
+    .left-services-image{
+        width: 300px;
+        height: auto;
+        
+    }
+    .left-services,.key-points,.right-services{
+        padding-left: 60px;
+    }
+}
+@media screen and (max-width: 550px){
+    .left-services,.key-points,.right-services{
+        padding-left: 10px;
+    }
+    .left-services-image{
+        width: 200px;
+        height: auto;
+        
+    }
+
+    
+}
+@media screen and (max-width: 500px){
+
+    .left-services,.key-points,.right-services{
+        margin-right: 100px;
+    }
+}
+@media screen and (max-width: 460px){
+    .offer{
+        width:320px;
+        height: auto;
+    }
+    .first{
+        margin-right: 60px;
+    }
+    .technology{
+        padding-left: 20px;
+    }
+   
+}
