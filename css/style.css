@@ -93,6 +93,7 @@ li a{
 
 .container3{
     /* background-image:  url("images/services-bg.png"); */
+    background-color: rgb(247, 242, 242);
     background-repeat: no-repeat;
     
     background-size: contain;
